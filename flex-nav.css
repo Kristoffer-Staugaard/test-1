@@ -16,7 +16,7 @@ body {
 }
 
 .column > * + *{
-    border-left: solid black 2px;
+    border-left: solid orchid 2px;
 
 }
 
